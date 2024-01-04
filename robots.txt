@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ay.de-rse.org/sitemap.xml
